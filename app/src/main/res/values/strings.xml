@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="android">Android</string>
+    <string name="go">Oblicz</string>
+    <string name="change_units">Zmień jednostki</string>
+    <string name="history">Historia</string>
+    <string name="about_me">O autorce</string>
+    <string name="height_prompt">Wzrost (%s):</string>
+    <string name="weight_prompt">Waga (%s):</string>
+    <string name="underweight">Niedowaga</string>
+    <string name="healthy">Zdrowa waga</string>
+    <string name="overweight">Nadwaga</string>
+    <string name="obesity">Otyłość</string>
+    <string name="height">Wzrost: %1$.0f %2$s</string>
+    <string name="weight">Waga: %1$.1f %2$s</string>
+    <string name="result_template">BMI: %.2f</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="lbs">lbs</string>
+    <string name="inch">in</string>
+    <string name="author_desc">Pochodzę z Namysłowa. Jako studentka trzeciego roku informatyki, pasjonuję się rzeczami zupełnie z informatyką niezwiązanymi. Jestem autostopowiczką, miłośniczką przyrody i aspirującą polarniczką. Gram na perkusji w zespole rockowym, jak zespół raz na rok znajdzie na to czas. \nMój minimalistyczny kalkulator BMI chciałam stworzyć pamiętając, że wygląd i numerek na wadze nie powinien być stawiany ponad własne zdrowie psychiczne i fizyczne.</string>
+    <string name="underweight_desc">O niedowadze mówimy gdy BMI spada poniżej wartości 18.5. Masa ciała jest zbyt niska. Rozważ konsultację lekarską i wzbogać dietę w zdrowe tłuszcze roślinne, białko oraz węglowodany złożone. Pamiętaj, że ważniejsze od numerka jest Twoje zdrowie i samopoczucie.</string>
+    <string name="healthy_desc">Gratulacje! Tak trzymaj. Twoja masa ciała jest prawidłowa. Staraj się dbać o bogatą w warzywa i owoce dietę oraz codzienną dawkę sportu, aby utrzymać dobrą formę.</string>
+    <string name="overweight_desc">Nadwaga jest stanem, w którym organizm człowieka zgromadził zbyt dużą ilość tkanki tłuszczowej. Dieta przy nadwadze powinna być uboga energetycznie. Rozważ konsultację lekarską. Nie zapominaj, że BMI nie jest jedynym wyznacznikiem prawidłowej wagi.</string>
+    <string name="obesity_desc">Masa ciała jest zbyt wysoka, wartość BMI wskazuje na rozwijającą się otyłość. Skontaktuj się ze swoim lekarzem i nie poddawaj się! Pamiętaj, że najbardziej liczy się twoje zdrowie i samopoczucie, a wskaźnik BMI to nie nieomylny wyznacznik prawidłowej wagi.</string>
+    <string name="author_name">Kasia Wochal</string>
+</resources>
