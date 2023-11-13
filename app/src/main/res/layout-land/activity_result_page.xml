@@ -28,7 +28,7 @@
 
     <TextView
         android:id="@+id/descTV"
-        android:layout_width="450dp"
+        android:layout_width="550dp"
         android:layout_height="0dp"
         android:layout_marginTop="@dimen/smaller_medium_margin"
         android:text=""
